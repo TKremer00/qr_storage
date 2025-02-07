@@ -26,8 +26,8 @@ For more details, visit the official Rust website: [Rust Installation Guide](htt
 ### 1. Clone the Repository
 
 ```sh
-git clone <REPO>
-cd your-rust-project
+git clone https://github.com/TKremer00/qr_storage.git
+cd qr_storage
 ```
 
 ### 2. Build the project
